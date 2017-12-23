@@ -1,6 +1,6 @@
 # Deep Learning Computer Vision A-Z™
 
-##OpenCV, SSD & Generative Adversarial Networks
+## OpenCV, SSD & Generative Adversarial Networks
 
 https://www.udemy.com/computer-vision-a-z
 
