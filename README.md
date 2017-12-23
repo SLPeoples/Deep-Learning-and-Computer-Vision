@@ -1,4 +1,8 @@
-﻿# Deep-Learning-Computer-Vision-A-Z™
+# Deep Learning Computer Vision A-Z™
+
+##OpenCV, SSD & Generative Adversarial Networks
+
+https://www.udemy.com/computer-vision-a-z
 
 You've definitely heard of AI and Deep Learning. But when you ask yourself, what is my position with respect to this new industrial revolution, that might lead you to another fundamental question: am I a consumer or a creator? For most people nowadays, the answer would be, a consumer.
 
